@@ -47,4 +47,4 @@ L'objectif de cette étude est de proposer une **analyse des groupements de pays
 2. Ouvrez et exécutez les notebooks dans le dossier `notebooks/`.
 
 ## Auteur
-- Ngoc LE(https://github.com/lengocduyvu)
+- Ngoc LE (https://github.com/lengocduyvu)
