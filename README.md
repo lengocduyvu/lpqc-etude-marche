@@ -1,3 +1,5 @@
+![Title](gfx/lpqc_title.jpg)
+
 # Etude de marché
 
 ## Description
